@@ -1,0 +1,32 @@
+.container{
+    border: 2px solid red ;
+    height:300px;
+    width: 350px;
+    padding:10px;
+    background-color: rgb(150, 150, 186);
+  }
+.container2{
+    background-color: aquamarine;
+    border:2px solid black;
+    margin:10px;
+} 
+.btn{
+    background-color: green;
+    border-radius:
+} 
+.btn:hover{
+    background-color: yellowgreen;
+    cursor: pointer;
+}
+.listdata{
+    border:2px solid black;
+    background-color:burlywood;
+    font-size: 10px;
+    width: 200px;
+    border-radius:8px;
+}
+.i{
+    display:flex;
+    gap:20px;
+    
+}
